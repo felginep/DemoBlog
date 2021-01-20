@@ -1,0 +1,12 @@
+//
+//  DemoAppDebug.xcconfig
+//  DemoBlog
+//
+//  Created by Pierre Felgines on 16/01/2021.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+#include "Environment.xcconfig"
+#include "../../Pods/Target Support Files/Pods-DemoBlog/Pods-DemoBlog.debug.xcconfig"
